@@ -1,8 +1,6 @@
 # Instacart Analysis
 This is the analysis of Instacart Grocery Basket to identify sales pattern conducted in Python for Data Analytics Program at CareerFoundry.
 
-
-
 ## Objective
 
 Instacart is an online grocery store that operates through an app. Beyond that Instacart has proficient sales, they want to uncover more information about their sales patterns.
