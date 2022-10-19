@@ -13,7 +13,7 @@ They want to target different customers with applicable marketing campaigns to s
 
 The data used are an open source data from Instacart and a customer data set created for the purpose of this project.
 
-The open source it is available [here](https://www.instacart.com/datasets/grocery-shopping-2017).
+The open source is available [here](https://www.instacart.com/datasets/grocery-shopping-2017).
 
 ## Used Tools
 
