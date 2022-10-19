@@ -1,5 +1,5 @@
 # Instacart Analysis
-#####This is the analysis of Instacart Grocery Basket to identify sales pattern conducted in Python for Data Analytics Program at CareerFoundry.
+This is the analysis of Instacart Grocery Basket to identify sales pattern conducted in Python for Data Analytics Program at CareerFoundry.
 
 
 
